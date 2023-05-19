@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "www.sami-zaidi.me",
+  "Id": "33daf2a1-314c-4f45-9546-0c4cb8e5cd36"
+}
